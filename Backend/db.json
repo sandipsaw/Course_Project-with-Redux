@@ -1,0 +1,68 @@
+{
+  "Users": [
+    {
+      "id": "wXXkPOujru7Mvj_utpYZa",
+      "usename": "admin",
+      "Email": "sandy@gmail.com",
+      "password": "12345",
+      "isAdmin": true
+    },
+    {
+      "id": "epJaut7sgRliPtbzMydTa",
+      "usename": "sandip saw",
+      "Email": "sandip@gmail.com",
+      "password": "1234",
+      "isAdmin": false
+    }
+  ],
+  "Courses": [
+    {
+      "id": "1",
+      "title": "React with Node.js Fullstack Bootcamp",
+      "description": "Learn to build scalable fullstack applications using React on the frontend and Node.js with Express on the backend.",
+      "image": "https://example.com/images/react-node-bootcamp.jpg",
+      "price": 149,
+      "category": "Fullstack Development"
+    },
+    {
+      "id": "2",
+      "title": "React with Firebase",
+      "description": "Integrate Firebase as a backend for your React apps — covering authentication, Firestore, hosting, and cloud functions.",
+      "image": "https://example.com/images/react-firebase.jpg",
+      "price": 99,
+      "category": "Backend with Firebase"
+    },
+    {
+      "id": "3",
+      "title": "MERN Stack Development",
+      "description": "Master MongoDB, Express, React, and Node.js to create complete end-to-end web applications.",
+      "image": "https://example.com/images/mern-stack.jpg",
+      "price": 179,
+      "category": "MERN Stack"
+    },
+    {
+      "id": "4",
+      "title": "GraphQL with React and Node.js",
+      "description": "Learn to build a modern API with GraphQL and consume it in React apps for efficient data management.",
+      "image": "https://example.com/images/react-graphql.jpg",
+      "price": 129,
+      "category": "GraphQL Backend"
+    },
+    {
+      "id": "5",
+      "title": "Authentication and Security in React Apps",
+      "description": "Implement user authentication, JWT tokens, role-based access, and secure APIs using React and Node.js.",
+      "image": "https://example.com/images/react-auth.jpg",
+      "price": 89,
+      "category": "Security"
+    },
+    {
+      "id": "0euX2V7WnsqXiVndkCTma",
+      "title": "je;ibe jeuif",
+      "description": "Premium genuine leather wallet with multiple card slots and a coin pocket.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.cOA9lhomnrSEla1T7k_GEAHaFS?pid=Api&P=0&h=180",
+      "price": "415",
+      "category": "Fullstack Development"
+    }
+  ]
+}
